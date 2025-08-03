@@ -40,3 +40,4 @@ C:\Users\guilh\projects\c-sharp-projects\ProjetoDBZ\bin\Debug\net9.0\Mono.TextTe
 C:\Users\guilh\projects\c-sharp-projects\ProjetoDBZ\bin\Debug\net9.0\MySqlConnector.dll
 C:\Users\guilh\projects\c-sharp-projects\ProjetoDBZ\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\guilh\projects\c-sharp-projects\ProjetoDBZ\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\guilh\projects\c-sharp-projects\ProjetoDBZ\obj\Debug\net9.0\ProjetoDBZ.sourcelink.json
